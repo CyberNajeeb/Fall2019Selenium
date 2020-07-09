@@ -11,7 +11,8 @@ import java.util.List;
 import java.util.Random;
 
 /**
- * 1.go to http://samples.gwtproject.org/samples/Showcase/Showcase.html#!CwCheckBox2.Randomlyselect a checkbox.
+ * 1.go to http://samples.gwtproject.org/samples/Showcase/Showcase.html#!CwCheckBox
+ * 2.Randomly select a checkbox.
  * As soon as you check any day, print the name of the day and uncheck immediately.
  * After you check and uncheck Friday for the third time, exit the program.
  */
